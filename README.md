@@ -22,7 +22,6 @@
 🕉️ **[Zen Quotes App](https://github.com/nexxus314/zen-quotes-app)** - Android + API integration  
 🔊 **[Nexus Player](https://github.com/nexxus314/musicplayer)** - Android music player  
 
-*(Tip: Add more repos with `https://github.com/nexxus314/your-repo`)*  
 
 ---
 
