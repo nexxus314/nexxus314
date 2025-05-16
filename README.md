@@ -20,7 +20,7 @@
 ## 🏆 **Highlight Projects**  
 🎶 **[Spotify Album Search](https://github.com/nexxus314/spotify-album-search)** - React + Spotify API  
 🕉️ **[Zen Quotes App](https://github.com/nexxus314/zen-quotes-app)** - Android + API integration  
-🔊 **[Nexus Player](https://github.com/nexxus314/music-player)** - Android music player  
+🔊 **[Nexus Player](https://github.com/nexxus314/musicplayer)** - Android music player  
 
 *(Tip: Add more repos with `https://github.com/nexxus314/your-repo`)*  
 
@@ -34,15 +34,14 @@
 
 ## 🌟 **Achievements**  
 - 🏅 Selected for [Hackathon/Program Name]  
-- 📱 Published [App Name] on Play Store *(if applicable)*  
-- 🎓 Google Developer Student Club Member *(example)*  
+*  
 
 ---
 
 ## 🤝 **Let's Collab!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/](https://www.linkedin.com/in/adhithyans314))  
 
-📧 **Email:** [your.email@domain.com](adhithyans159@gmail.com)  
+📧 **Email:** [adhithyans159@gmail.com](adhithyans159@gmail.com)  
 
 ---
 
