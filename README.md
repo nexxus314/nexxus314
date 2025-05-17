@@ -1,4 +1,4 @@
-# 🚀 **Hey there, I'm Adhithyan (nexxus314)!**  
+# 🚀 **Hey there, I'm nexxus314!**  
 ### *3rd-Year CS Engineering Student | Android & Full-Stack Developer* 💻  
 🔥 **Building:** Mobile apps that groove & full-stack web magic  
 
