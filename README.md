@@ -1,6 +1,6 @@
-# 🚀 **Hey there, I'm nexxus314!**  
-### *3rd-Year CS Engineering Student | Android & Full-Stack Developer* 💻  
-🔥 **Building:** Mobile apps that groove & full-stack web magic  
+# 🌸 **Hello there, I'm nexxus314!**  
+### 3rd-Year CS Engineering Student | Android & Full-Stack Developer 💻  
+ **Building:**Apps that groove & full-stack web magic  
 
 ---
 
