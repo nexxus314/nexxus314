@@ -4,8 +4,8 @@
 ## ✨ 𝐸𝑥𝑝𝑙𝑜𝑟𝑖𝑛𝑔 𝑡ℎ𝑒 𝑖𝑛𝑡𝑒𝑟𝑠𝑒𝑐𝑡𝑖𝑜𝑛𝑠 𝑜𝑓 **𝑊𝑒𝑏, 𝑀𝑜𝑏𝑖𝑙𝑒, 𝑎𝑛𝑑 𝐴𝐼/𝑀𝐿**.
 ## 📊 𝐿𝑜𝑣𝑒 𝑡𝑜 𝑡𝑟𝑎𝑐𝑘 𝑝𝑟𝑜𝑔𝑟𝑒𝑠𝑠 𝑤𝑖𝑡ℎ 𝑎 𝑙𝑖𝑡𝑡𝑙𝑒 𝑓𝑙𝑎𝑖𝑟!  
 ##<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=36BCF7&center=true&vCenter=true&width=500&lines=Hey+there!;I+am+Adhithyan+S.;Welcome+to+my+GitHub" />
-##![Custom Banner]![87c3316d91b5104f0144cd434ed1e977](https://github.com/user-attachments/assets/34ec20cf-6267-40dc-9025-7786a527a0c0)
-)
+![Custom Banner]![87c3316d91b5104f0144cd434ed1e977](https://github.com/user-attachments/assets/34ec20cf-6267-40dc-9025-7786a527a0c0)
+
 
 
 ---
