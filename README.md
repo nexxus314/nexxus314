@@ -15,7 +15,9 @@
 - 📊 𝐿𝑜𝑣𝑒 𝑡𝑜 𝑡𝑟𝑎𝑐𝑘 𝑝𝑟𝑜𝑔𝑟𝑒𝑠𝑠 𝑤𝑖𝑡ℎ 𝑎 𝑙𝑖𝑡𝑡𝑙𝑒 𝑓𝑙𝑎𝑖𝑟  
 
 ---
-![Sakura Header]([https://i.pinimg.com/originals/2a/53/60/2a5360854b63a5e55d9f4d4b1fb6d3c8.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnMwYnJ2OGNhMnZ5MnFxNGRpc21yazYxOTVwemN2YmwyczVwc3VtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13ZzYXkeIjcZy0/giphy.gif))
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnMwYnJ2OGNhMnZ5MnFxNGRpc21yazYxOTVwemN2YmwyczVwc3VtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13ZzYXkeIjcZy0/giphy.gif" alt="sakura falling" width="400"/>
+</p>
 
 
 <div align="center">
