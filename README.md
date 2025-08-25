@@ -9,11 +9,13 @@
 
 ---
 
-## 🍡 About Me  
-- 🎎 𝑃𝑎𝑠𝑠𝑖𝑜𝑛𝑎𝑡𝑒 𝑎𝑏𝑜𝑢𝑡 *𝑐𝑜𝑑𝑖𝑛𝑔, 𝑏𝑢𝑖𝑙𝑑𝑖𝑛𝑔, 𝑎𝑛𝑑 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑒𝑣𝑒𝑟𝑦 𝑑𝑎𝑦*  
-- ✨ 𝐸𝑥𝑝𝑙𝑜𝑟𝑖𝑛𝑔 𝑡ℎ𝑒 𝑖𝑛𝑡𝑒𝑟𝑠𝑒𝑐𝑡𝑖𝑜𝑛𝑠 𝑜𝑓 **𝑊𝑒𝑏, 𝑀𝑜𝑏𝑖𝑙𝑒, 𝑎𝑛𝑑 𝐴𝐼/𝑀𝐿**  
-- 📊 𝐿𝑜𝑣𝑒 𝑡𝑜 𝑡𝑟𝑎𝑐𝑘 𝑝𝑟𝑜𝑔𝑟𝑒𝑠𝑠 𝑤𝑖𝑡ℎ 𝑎 𝑙𝑖𝑡𝑡𝑙𝑒 𝑓𝑙𝑎𝑖𝑟  
+## 🍡 Ａｂｏｕｔ Ｍｅ
 
+-🎎 Ｐａｓｓｉｏｎ ｉｎ ｃｏｄｅ — ｂｕｉｌｄｉｎｇ， ｌｅａｒｎｉｎｇ， ｅｖｏｌｖｉｎｇ 🌸
+
+-✨ Ｗａｌｋｉｎｇ ｔｈｅ ｐａｔｈ ｏｆ Ｗｅｂ • Ｍｏｂｉｌｅ • ＡＩ／ＭＬ 🍃
+
+-📊 Ｐｒｏｇｒｅｓｓ ｉｓ ａｒｔ， ｔｒａｃｋｅｄ ｗｉｔｈ ｇｅｎｔｌｅ ｆｌａｉｒ 🏮
 ---
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnMwYnJ2OGNhMnZ5MnFxNGRpc21yazYxOTVwemN2YmwyczVwc3VtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13ZzYXkeIjcZy0/giphy.gif" alt="sakura falling" width="400"/>
