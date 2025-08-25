@@ -16,10 +16,17 @@
 
 ---
 
+
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sawarabi+Mincho&size=22&pause=1200&color=F4A7BB&center=true&vCenter=true&width=700&lines=🌸+Cherry+blossoms+fall%2C+the+code+still+flows;🍵+Silent+terminal%2C+cursor+awaits+creation;🌙+Loops+and+dreams+intertwine+at+midnight;🌸+Sakura+petals%2C+forgotten+syntax+returns;🍃+Whisper-soft+logic%2C+elegant+design;🏯+Crafting+calm+UIs%2C+tidy+APIs;🖋+Make+it+work%2C+then+right%2C+then+fast;📜+Readability+over+cleverness%2C+always;🌸+nexxus314+%E2%80%94+where+logic+meets+poetry;🍵+nexxus314+%E2%80%94+code+that+blooms)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sawarabi+Mincho&size=22&pause=1200&color=F4A7BB&center=true&vCenter=true&width=700&lines=🌸+Cherry+blossoms+fall%2C+the+code+still+flows;🍵+Silent+terminal%2C+cursor+awaits+creation;🌙+Loops+and+dreams+intertwine+at+midnight;🌸+Sakura+petals%2C+forgotten+syntax+returns;🍃+Whisper-soft+logic%2C+elegant+design;🏯+Crafting+calm+UIs%2C+tidy+APIs;🖋+Make+it+work%2C+then+right%2C+then+fast;📜+Readability+over+cleverness%2C+always;🌸+nexxus314+%E2%80%94+where+logic+meets+poetry;🍵+nexxus314+%E2%80%94+code+that+blooms)](https://git.io/typing-svg)  
+
 </div>
 
+
+
+
+---
 
 ## 🌸 GitHub Insights  
 
