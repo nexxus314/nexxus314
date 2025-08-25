@@ -1,52 +1,53 @@
-# 🌸 **Hello there, I'm nexxus314!**  
-### 3rd-Year CS Engineering Student | Android & Full-Stack Developer 💻  
- **Building:**Apps that groove & full-stack web magic  
+# Hey there, I’m Nexxus 👋  
+
+🚀 Passionate about coding, building, and learning every day.  
+✨ Exploring the intersections of **Web, Mobile, and AI/ML**.  
+📊 Love to track progress with a little flair!  
 
 ---
 
-## 🛠 **Tech Arsenal**  
-### 📱 Mobile  
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+## 🔥 GitHub Insights  
 
-### 🌐 Web  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nexxus314&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
 
----
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nexxus314&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+</p>
 
-## 🏆 **Highlight Projects**  
-🎶 **[Spotify Album Search](https://github.com/nexxus314/spotify-album-search)** - React + Spotify API  
-🕉️ **[Zen Quotes App](https://github.com/nexxus314/zen-quotes-app)** - Android + API integration  
-🔊 **[Nexus Player](https://github.com/nexxus314/musicplayer)** - Android music player  
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexxus314&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
 
-
----
-
-## 📈 **GitHub Stats**  
-![nexxus314's Stats](https://github-readme-stats.vercel.app/api?username=nexxus314&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexxus314&layout=compact&theme=radical)  
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nexxus314&theme=radical&no-frame=true&no-bg=true&margin-w=5" alt="Trophies"/>
+</p>
 
 ---
 
-## 🌟 **Achievements**  
-- 🏅 Selected for [Hackathon/Program Name]  
-*  
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nexxus314&theme=redical&hide_border=true" alt="Contribution Graph"/>
+</p>
 
 ---
 
-## 🤝 **Let's Collab!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/](https://www.linkedin.com/in/adhithyans314))  
+## 🌐 Connect with Me  
 
-📧 **Email:** [adhithyans159@gmail.com](adhithyans159@gmail.com)  
-
----
-
-### 💡 **Coding Philosophy**  
-*"Write code that's as clean as your playlist organization!"* 🎧  
-
----
-
-🔄 **Real-time Spotify Playback** *(coming soon - ask me how!)*  
+<p align="center">
+<a href="https://github.com/nexxus314">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/YOUR-LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:YOUR-EMAIL">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
