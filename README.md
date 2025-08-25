@@ -15,7 +15,8 @@
 - 📊 𝐿𝑜𝑣𝑒 𝑡𝑜 𝑡𝑟𝑎𝑐𝑘 𝑝𝑟𝑜𝑔𝑟𝑒𝑠𝑠 𝑤𝑖𝑡ℎ 𝑎 𝑙𝑖𝑡𝑡𝑙𝑒 𝑓𝑙𝑎𝑖𝑟  
 
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sawarabi+Mincho&size=22&pause=1200&color=F4A7BB&center=true&vCenter=true&width=700&lines=Cherry+blossoms+fall%2C+the+code+still+flows;Silent+terminal%2C+cursor+awaits+creation;Loops+and+dreams+intertwine+at+midnight;Sakura+petals%2C+forgotten+syntax+returns;Whisper-soft+logic%2C+elegant+design;Crafting+calm+UIs%2C+tidy+APIs;Make+it+work%2C+then+right%2C+then+fast;Readability+over+cleverness%2C+always;nexxus314+%E2%80%94+where+logic+meets+poetry;nexxus314+%E2%80%94+code+that+blooms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C4D7&center=true&vCenter=true&width=700&lines=🎐+Hello+there%2C+I'm+Nexxus314+🌸;🌿+Code+flows+like+water%2C+bugs+fade+like+dew+☁️;🍃+Silence+in+logic%2C+clarity+in+thought+💻;🌸+Cherry+blossoms+fall%2C+but+dreams+remain+eternal+🌙;🗻+Small+steps+build+mountains%2C+just+as+lines+build+programs+📜;🍂+Every+bug+is+a+lesson%2C+every+fix+a+petal+fallen+🌺;✨+Code+simply%2C+dream+boldly%2C+live+lightly+🍵)](https://git.io/typing-svg)
+
 
 ## 🌸 GitHub Insights  
 
