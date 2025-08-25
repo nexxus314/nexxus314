@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🎐 𝓗𝓮𝓵𝓵𝓸 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 **𝓝𝓮𝔁𝔁𝓾𝓼314** 🌸  
+# 🎐 ｈｅｌｌｏ ｔｈｅｒｅ, ｉ’ｍ **Ｎｅｘｘｕｓ３１４** 🌸
+  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&pause=1200&color=F4A7BB&center=true&vCenter=true&width=550&lines=🌸+Crafting+code+like+cherry+blossoms+in+the+spring+🌸;✨+nexxus314+%7C+Turning+ideas+into+elegant+solutions+✨;🍃+nexxus314+%7C+Embracing+growth%2C+one+commit+at+a+time+🍃)](https://git.io/typing-svg)
 
