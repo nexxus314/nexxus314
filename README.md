@@ -7,7 +7,7 @@
 
 ## 🍡 About Me
 
-- 🎎 Passion in code — building, learning, evolving 🌸  
+- 🎎 Passion in code building, learning, evolving 🌸  
 - ✨ Walking the path of Web • Mobile • AI/ML 🍃  
 - 📊 Progress is art, tracked with gentle flair 🏮  
 
@@ -60,7 +60,7 @@
 <a href="https://github.com/nexxus314">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR-LINK">
+<a href="https://www.linkedin.com/in/adhithyan314">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:adhithyans159@gmail.cm">
