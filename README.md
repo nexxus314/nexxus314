@@ -7,9 +7,9 @@
 
 ## 🍡 About Me
 
-- 🎎 Passion in code building, learning, evolving 🌸  
+- 🎎 SWE intern   
 - ✨ Walking the path of Web • Mobile • AI/ML 🍃  
-- 📊 Progress is art, tracked with gentle flair 🏮  
+ 
 
 ---
 
